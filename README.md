@@ -1,6 +1,6 @@
 ### Olá, sou o Gean Vitor 👋
 
-![GeanVitor GitHub stats](https://github-readme-stats.vercel.app/api?username=GeanVitor&show_icons=true&theme=dracula)
+![GeanVitor GitHub stats](https://github-readme-stats.vercel.app/api?username=GeanVitor&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeanVitor)](https://github.com/GeanVitor/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia a dia
