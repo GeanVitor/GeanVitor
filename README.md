@@ -1,10 +1,10 @@
 ### Olá, sou o Gean Vitor 👋
 
 ![GeanVitor GitHub stats](https://github-readme-stats.vercel.app/api?username=GeanVitor&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeanVitor)](https://github.com/GeanVitor/github-readme-stats&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeanVitor&theme=dracula)](https://github.com/GeanVitor/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia a dia
-<div style="display: inline_block"><br/>
+<div style="display: inline_block" theme=dracula><br/>
 <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img align="center" alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img align="center" alt="REACTJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
